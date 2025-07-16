@@ -5,7 +5,7 @@
 ### 💡 Projects
 - **🧠 Netti** — token-based AI memory engine
 - **⚡ bladeBench** — ultra-fast API gateways 
-- ** ⚙️ overflowSort — systems-level sorting experiment for benchmarking extreme-scale input
+- **⚙️ overflowSort — systems-level sorting experiment for benchmarking extreme-scale input
 - **🌐 synaptechlabs.ai** — full-stack web + R&D hub
 - **🧪 Simulators** — Overflow sort, relational oscillators, embedded systems
 
