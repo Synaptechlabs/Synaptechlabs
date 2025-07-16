@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Welcome to SynaptechLabs
 
-<!--
-**Synaptechlabs/Synaptechlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building cognition from tokens, bytes, and bold ideas.
 
-Here are some ideas to get you started:
+### 💡 Projects
+- **🧠 Netti** — token-based AI memory engine
+- **⚡ bladeBench** — ultra-fast API gateways 
+- ** ⚙️ overflowSort — systems-level sorting experiment for benchmarking extreme-scale input
+- **🌐 synaptechlabs.ai** — full-stack web + R&D hub
+- **🧪 Simulators** — Overflow sort, relational oscillators, embedded systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Background
+Founded by [Scott K. Douglass](https://github.com/NGC3031), SynaptechLabs is a frontier High Performance Lab, Systems, Neural Networks, AI, HFT and just cool stuff.
+
+---
+For older work see @NGC3031:
+
+🧊 **Arctic Code Vault Contributor** (via `@NGC3031`)  
+🦈 Legacy MQTT/IOT work  
+🚀 New projects weekly
+
+> “Augmented Intelligence is the future.”
+
+Let’s build it.
