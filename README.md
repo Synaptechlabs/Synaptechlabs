@@ -4,8 +4,8 @@
 
 ## 💡 Projects
 
-🧠 **Netti** — token-based AI memory engine  
-⚡ **bladeBench** — ultra-fast API gateways  
+🧠 **Netti** — token-based AI memory engine research 
+⚡ **bladeBench** — ultra-fast API gateways in a variety of Languages  
 ⚙️ **overflowSort** — systems-level sorting experiment for benchmarking extreme-scale input  
 🌐 **synaptechlabs.ai** — full-stack web + R&D hub  
 🧪 **Simulators** — Overflow sort, relational oscillators, embedded systems  
