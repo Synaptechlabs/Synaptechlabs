@@ -7,6 +7,7 @@
 🗄️ Enterprise-DB-Lab — comprehensive Docker-based enterprise database laboratory for learning high availability, monitoring, and scaling patterns
 
 🧠 **Netti** — token-based AI memory engine research 
+
 ⚡ **bladeBench** — ultra-fast API gateways in a variety of Languages  
 ⚙️ **overflowSort** — systems-level sorting experiment for benchmarking extreme-scale input  
 🌐 **synaptechlabs.ai** — full-stack web + R&D hub  
