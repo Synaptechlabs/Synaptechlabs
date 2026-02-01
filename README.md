@@ -23,8 +23,7 @@
 
 
 ### 📜 Background
-Founded by [Scott K. Douglass](https://github.com/NGC3031), SynaptechLabs is a frontier High Performance Lab, Systems, Neural Networks, AI, HFT and just cool stuff.
-
+SynaptechLabs is an independent research and engineering workspace maintained by Scott Kerr Douglass, focused on systems performance, infrastructure, computational models, and exploratory AI research.
 ---
 For older work see @NGC3031:
 
