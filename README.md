@@ -1,36 +1,39 @@
-# 👋 Welcome to SynaptechLabs
+# SynaptechLabs
 
-> Building cognition from tokens, bytes, and bold ideas.
+**Scott Douglass** — Engineering Manager / CTO / Independent Consultant  
+38 years in software engineering across fintech, embedded systems, and enterprise platforms.
 
-## 💡 Projects
+[synaptechlabs.ai](https://synaptechlabs.ai) · [LinkedIn](https://linkedin.com/in/scottdouglass) · scott.d@ieee.org
 
-🗄️ Enterprise-DB-Lab — comprehensive Docker-based enterprise database laboratory for learning high availability, monitoring, and scaling patterns
-
-🧠 **Netti** — token-based AI memory engine research 
-
-⚡ **bladeBench** — ultra-fast API gateways in a variety of Languages  
-⚙️ **overflowSort** — systems-level sorting experiment for benchmarking extreme-scale input  
-🌐 **synaptechlabs.ai** — full-stack web + R&D hub  
-🧪 **Simulators** — Overflow sort, relational oscillators, embedded systems  
-📦 **Grab-bag** — handy experimental snippets, utilities, and components that don’t yet need their own repo  
-🔬 **Computational-Math-Physics** — simulations and numerical methods for physics and applied math  
-📚 **Study** *(Private)* — personal scripts, learning notes, and algorithm reviews  
-📡 **Golang-MQTT** — high-performance MQTT message router written in Go - *** LCARS theme as a free bonus :)
-
-⚡ **fast-server** — ultra-minimalist, high-speed Node.js TCP server with clustering  
-📝 **pdf2html** — batch-convert PDF files to structured HTML via CLI (Python)  
-🧬 **minimal-bootloader** — low-level bootstrapping in assembly  
-
-
-### 📜 Background
-SynaptechLabs is an independent research and engineering workspace maintained by Scott Kerr Douglass, focused on systems performance, infrastructure, computational models, and exploratory AI research.
 ---
-For older work see @NGC3031:
 
-🧊 **Arctic Code Vault Contributor** (via `@NGC3031`)  
-🦈 Legacy MQTT/IOT work  
-🚀 New projects weekly
+## Recent Publications
 
-> “Augmented Intelligence is the future.”
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [overflowSort](https://github.com/Synaptechlabs/overflowSort) | Non-comparison sorting algorithm using simulated overflow behaviour. Published with [DOI: 10.5281/zenodo.15855899](https://doi.org/10.5281/zenodo.15855899). | C, AVX2, SIMD |
+| [pdf2html](https://github.com/Synaptechlabs/pdf2html) | PDF structural metadata to semantic HTML. Available on [PyPI](https://pypi.org/project/pdf2html/). | Python, PyMuPDF |
 
-Let’s build it.
+## Repositories
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Enterprise-DB-Lab](https://github.com/Synaptechlabs/Enterprise-DB-Lab) | Docker-based enterprise database laboratory — HA, monitoring, and scaling patterns. | Docker, PostgreSQL, Redis, MongoDB |
+| [bladeBench](https://github.com/Synaptechlabs/bladeBench) | TCP server micro-benchmarks comparing dispatch performance across languages. | C, C++, Rust, Zig |
+| [Golang-MQTT](https://github.com/Synaptechlabs/Golang-MQTT) | High-performance MQTT message router. | Go |
+| [fast-server](https://github.com/Synaptechlabs/fast-server) | Minimalist high-speed TCP server with clustering. | Node.js |
+| [Computational-Math-Physics](https://github.com/Synaptechlabs/Computational-Math-Physics) | Simulations and numerical methods for physics and applied mathematics. | Python, C |
+| [Simulators](https://github.com/Synaptechlabs/Simulators) | Overflow sort visualisation, relational oscillators, embedded systems. | Mixed |
+| [minimal-bootloader](https://github.com/Synaptechlabs/minimal-bootloader) | Low-level bootstrapping in assembly. | Assembly |
+| [synaptechlabs.ai](https://github.com/Synaptechlabs/synaptechlabs.ai) | Personal technical knowledge base and research site. | Next.js 16, React 19, TypeScript, Tailwind v4 |
+
+## Research Interests
+
+Systems performance · Algorithm design · Computational mathematics · Comparative linguistics · Symbolic AI
+
+---
+
+### Prior Work
+
+For older projects see [@NGC3031](https://github.com/NGC3031).  
+Arctic Code Vault Contributor · Legacy MQTT/IoT work
