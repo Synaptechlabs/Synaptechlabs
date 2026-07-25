@@ -1,7 +1,7 @@
 # SynaptechLabs
 
 **Scott Douglass** — Engineering Manager / CTO / Independent Consultant  
-38 years in software engineering across fintech, embedded systems, and enterprise platforms.
+software engineering across fintech, embedded systems, and enterprise platforms.
 
 [synaptechlabs.ai](https://synaptechlabs.ai) · [LinkedIn](https://linkedin.com/in/scottdouglass) · scott.d@ieee.org
 
@@ -27,9 +27,9 @@
 | [minimal-bootloader](https://github.com/Synaptechlabs/minimal-bootloader) | Low-level bootstrapping in assembly. | Assembly |
 | [synaptechlabs.ai](https://github.com/Synaptechlabs/synaptechlabs.ai) | Personal technical knowledge base and research site. | Next.js 16, React 19, TypeScript, Tailwind v4 |
 
-## Research Interests
+## Interests
 
-Systems performance · Algorithm design · Computational mathematics · Comparative linguistics · Symbolic AI
+Systems performance · Algorithms · Computational mathematics · Comparative linguistics · Symbolic AI
 
 ---
 
