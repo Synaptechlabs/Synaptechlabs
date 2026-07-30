@@ -3,7 +3,7 @@
 **Scott Douglass** — Engineering Manager / CTO / Independent Consultant  
 software engineering across fintech, embedded systems, and enterprise platforms.
 
-[synaptechlabs.ai](https://synaptechlabs.ai) · [LinkedIn](https://linkedin.com/in/scottdouglass) · scott.d@synaptechlabs.ai
+[synaptechlabs.ai](https://synaptechlabs.ai) · [LinkedIn](https://linkedin.com/in/scottdouglass) · scott@synaptechlabs.ai
 
 ---
 
